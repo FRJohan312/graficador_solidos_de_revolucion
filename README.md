@@ -7,3 +7,6 @@
 - Usamos sympy para la interpretación de las funciones en un formato matemático y luego convertirlas en funciones de Python
 - Usamos matplotlib para graficar el solido en 3 dimensiones (se utilizó la función plot_surface para generar la superficie a través de puntos)
 - Por ultimo, usamos mpl_toolkits.mplot3d.Axes3D para agregar las coordenadas al grafico
+
+
+Claudia Milena / Johan Gómez
