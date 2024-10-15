@@ -9,4 +9,4 @@
 - Por ultimo, usamos mpl_toolkits.mplot3d.Axes3D para agregar las coordenadas al grafico
 
 
-Claudia Milena / Johan Gómez
+Desarrollado por: Claudia Milena & Johan Gómez
