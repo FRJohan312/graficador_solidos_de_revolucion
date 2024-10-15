@@ -1,3 +1,4 @@
+- Ejecutar el archivo main.py
 - Las funciones se deben escribir en base a sympy (cos(x), sin(x), tan(x), sqrt(x), exp(n))
 - El programa está dividido en modulos, cada uno cumple con una función en especifico
 
