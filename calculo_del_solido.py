@@ -2,7 +2,7 @@ import numpy as np
 
 def generar_malla(funcion_usuario):
     # Intervalo de x
-    x_valores = np.linspace(0, 5, 100)
+    x_valores = np.linspace(0, 2, 100)
     
     # Angulos de la rotación (0 a 2pi)
     theta_valores = np.linspace(0, 2 * np.pi, 100)
