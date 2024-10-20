@@ -5,7 +5,7 @@ x = sp.symbols('x')
 
 # BLINDAJE
 def solicitar_funcion():
-    funciones_permitidas = ['sin', 'cos', 'tan', 'sqrt', 'exp']
+    funciones_permitidas = ['sin', 'cos', 'tan', 'sqrt', 'exp', 'x']
     
     while True:
         entrada_usuario = input("Ingresa una función de x (sin, cos, sqrt, exp): ")
